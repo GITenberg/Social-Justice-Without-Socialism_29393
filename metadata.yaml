@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34531
     wikipedia: http://en.wikipedia.org/wiki/John_Bates_Clark
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29393#Social-Justice-Without-Socialism
 gutenberg_issued: '2009-10-24'
 gutenberg_type: Text
 identifiers:
