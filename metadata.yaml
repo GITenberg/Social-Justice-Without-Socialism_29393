@@ -1,0 +1,30 @@
+_repo: Social-Justice-Without-Socialism_29393
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clark, John Bates
+    alias: Clark, John B. (John Bates)
+    birthdate: 1847
+    deathdate: 1938
+    gutenberg_agent_id: '34531'
+    url: http://www.gutenberg.org/2009/agents/34531
+    wikipedia: http://en.wikipedia.org/wiki/John_Bates_Clark
+description: ''
+gutenberg_issued: '2009-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29393'
+  lccn: '14009126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social conditions -- 1865-1918'
+- !lcc 'HN'
+- !lcsh 'Industrial policy'
+title: Social Justice Without Socialism
+url: http://www.gutenberg.org/ebooks/29393
